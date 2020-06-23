@@ -6,7 +6,7 @@ int lastState = 0; //For running loop once
 int runOnce = 0; 
 int currentState = 1;     
 
-char phone_no[] = "9619884810"; // Phone number to which Distress Message has to be sent
+char phone_no[] = "xxxxxxxxxx"; // Phone number to which Distress Message has to be sent
 String data[5];
 #define DEBUG true
 #define button 6
